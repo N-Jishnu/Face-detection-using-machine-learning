@@ -1,3 +1,7 @@
+Dependencies:
+!pip install labelme tensorflow tensorflow-gpu opencv-python matplotlib albumentations
+
+
 1)# Collect Images Using OpenCV
 import os
 import time
